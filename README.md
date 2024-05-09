@@ -1,6 +1,9 @@
 # breakout-game
 Breakout game implementation in Java
 
+![obraz](https://github.com/pisulak/breakout-game/assets/127031073/dcc59613-4ef6-41d4-abb6-4e84fe921e5b)
+
+
 # Zadanie:
 Napisz grę zbliżoną do Breakout.
 
